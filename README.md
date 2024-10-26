@@ -9,6 +9,7 @@
 [**Technological singularity**](#technological-singularity)・
 [**Population**](#population)・
 [**Spawner**](#spawner)・
+[**Period**](#period)・
 [**10 × 10 × 10**](#10--10--10)
 
 ## Technological singularity
