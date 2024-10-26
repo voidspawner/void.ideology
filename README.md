@@ -8,7 +8,7 @@
 ## Technological singularity
 
 ## Population
-The global population is increasing by an average of 1.2% per year. The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20 000 000 000**.
+The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20 000 000 000**.
 
 | Country | 2023 | 2013 | Percent |
 | ------- | ---- | ---- | ------- |
