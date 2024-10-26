@@ -53,7 +53,7 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Bangladesh | <p align="right">172 954 320</p> | <p align="right">154 030 139</p> | <p align="center">1.23 %</p> |
 | Russian Federation | <p align="right">148 826 130</p> | <p align="right">143 805 638</p> | <p align="center">0.35 %</p> |
 | Mexico | <p align="right">128 455 570</p> | <p align="right">117 290 686</p> | <p align="center">0.95 %</p> |
-| Ethiopia | <p align="right">126 527 060</p> | <p align="right">97 084 366</p> | <p align="center">3.03 %</p> |
+| **Ethiopia** | <p align="right">126 527 060</p> | <p align="right">97 084 366</p> | <p align="center">**3.03 %**</p> |
 | Japan | <p align="right">124 516 650</p> | <p align="right">127 445 000</p> | <p align="center">-0.23 %</p> |
 | Philippines | <p align="right">117 337 370</p> | <p align="right">99 700 107</p> | <p align="center">1.77 %</p> |
 | **Egypt. Arab Rep.** | <p align="right">112 716 600</p> | <p align="right">93 377 890</p> | <p align="center">**2.07 %**</p> |
