@@ -13,6 +13,7 @@
 
 ## Period
 **「 2020 — 2040 」** Transition period from capitalism to **V O I D**.
+
 **「 After 2040 」** Fully autonomous production, accrual of funds to people in proportion to the resources created.
 
 ## 10 × 10 × 10
