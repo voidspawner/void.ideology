@@ -60,7 +60,7 @@ The concept underlying the achievement of **V O I D**.
 
 10+ territories of distribution of these technologies
 
-∞10 000 000 voids earnings per year (∞1 = $1)
+∞10 000 000 voids earnings per year (∞1 void = $1)
 _______________
 ∞1 000 000 000 voids per year
 ```
