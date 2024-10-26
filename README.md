@@ -71,13 +71,29 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 
 ## Spawner
 
-## Period
-**「 2020 — 2040 」** Transition period from capitalism to **V O I D**.
+We come to the point where human labor ceases to matter. When all the work is automated, the accrual of funds is also autonomous. Every second, funds are charged depending on how much energy has been extracted and material resources have been created.
 
-**「 After 2040 」** Fully autonomous production, accrual of funds to people in proportion to the resources created.
+**⌜ voids ⌟** — currency accrued regardless of the work performed. Infinite creation is at the heart of **V O I D**.
+
+> Endless game creation
+> Infinite social content creation
+> Infinite voids creation
+> Infinite tech creation
+> Infinite goods creation
+> Infinite medicine creation
+> Infinite food creation
+> Infinite real estate creation
+> Infinite delivery creation
+> Infinite energy creation
+> Infinite space tech creation
+
+## Period
+**⌜ 2020 — 2040 ⌟** Transition period from capitalism to **V O I D**.
+
+**⌜ After 2040 ⌟** Fully autonomous production, accrual of funds to people in proportion to the resources created.
 
 ## 10 × 10 × 10
-**「 Technology × Territory × Earnings 」**
+**⌜ Technology × Territory × Earnings ⌟**
 
 The concept underlying the achievement of **V O I D**.
 
