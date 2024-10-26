@@ -12,36 +12,36 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 
 | Country | 2023 | 2013 | Percent per year |
 | ------- | ---- | ---- | ---------------- |
-| India | 1 428 627 660 | 1 291 132 063 | 1.06% |
-| China | 1 410 710 000 | 1 363 240 000 | 0.35% |
-| United States | 334 914 900 | 316 059 947 | 0.60% |
-| Indonesia | 277 534 120 | 253 275 918 | 0.96% |
-| Pakistan | 240 485 660 | 205 337 562 | 1.71% |
-| Nigeria | 223 804 630 | 174 726 123 | 2.81% |
-| Brazil | 216 422 450 | 201 721 767 | 0.73% |
-| Bangladesh | 172 954 320 | 154 030 139 | 1.23% |
-| Russian Federation | 148 826 130 | 143 805 638 | 0.35% |
-| Mexico | 128 455 570 | 117 290 686 | 0.95% |
-| Ethiopia | 126 527 060 | 97 084 366 | 3.03% |
-| Japan | 124 516 650 | 127 445 000 | -0.23% |
-| Philippines | 117 337 370 | 99 700 107 | 1.77% |
-| Egypt. Arab Rep. | 112 716 600 | 93 377 890 | 2.07% |
-| Congo. Dem. Rep. | 102 262 810 | 73 460 021 | 3.92% |
-| Viet Nam | 98 858 950 | 90 267 739 | 0.95% |
-| Iran. Islamic Rep. | 89 172 770 | 78 458 928 | 1.37% |
-| Turkiye | 85 326 000 | 76 147 624 | 1.21% |
-| Germany | 84 482 270 | 80 645 605 | 0.48% |
-| Thailand | 71 801 280 | 69 578 602 | 0.32% |
-| United Kingdom | 68 350 000 | 64 128 273 | 0.66% |
-| France | 68 170 230 | 66 002 289 | 0.33% |
-| Tanzania | 67 438 110 | 49 253 643 | 3.69% |
-| South Africa | 60 414 500 | 53 873 616 | 1.21% |
-| Italy | 58 761 150 | 60 233 948 | -0.24% |
-| Kenya | 55 100 590 | 44 792 368 | 2.30% |
-| Myanmar | 54 578 000 | 50 648 334 | 0.78% |
-| Colombia | 52 085 170 | 46 237 930 | 1.26% |
-| Korea. Rep. | 51 712 620 | 50 428 893 | 0.25% |
-| Uganda | 48 582 330 | 35 273 570 | 3.77% |
+| India | <p align="right">1 428 627 660</p> | <p align="right">1 291 132 063</p> | <p align="right">1.06%</p> |
+| China | <p align="right">1 410 710 000</p> | <p align="right">1 363 240 000</p> | <p align="right">0.35%</p> |
+| United States | <p align="right">334 914 900</p> | <p align="right">316 059 947</p> | <p align="right">0.60%</p> |
+| Indonesia | <p align="right">277 534 120</p> | <p align="right">253 275 918</p> | <p align="right">0.96%</p> |
+| Pakistan | <p align="right">240 485 660</p> | <p align="right">205 337 562</p> | <p align="right">1.71%</p> |
+| Nigeria | <p align="right">223 804 630</p> | <p align="right">174 726 123</p> | <p align="right">2.81%</p> |
+| Brazil | <p align="right">216 422 450</p> | <p align="right">201 721 767</p> | <p align="right">0.73%</p> |
+| Bangladesh | <p align="right">172 954 320</p> | <p align="right">154 030 139</p> | <p align="right">1.23%</p> |
+| Russian Federation | <p align="right">148 826 130</p> | <p align="right">143 805 638</p> | <p align="right">0.35%</p> |
+| Mexico | <p align="right">128 455 570</p> | <p align="right">117 290 686</p> | <p align="right">0.95%</p> |
+| Ethiopia | <p align="right">126 527 060</p> | <p align="right">97 084 366</p> | <p align="right">3.03%</p> |
+| Japan | <p align="right">124 516 650</p> | <p align="right">127 445 000</p> | <p align="right">-0.23%</p> |
+| Philippines | <p align="right">117 337 370</p> | <p align="right">99 700 107</p> | <p align="right">1.77%</p> |
+| Egypt. Arab Rep. | <p align="right">112 716 600</p> | <p align="right">93 377 890</p> | <p align="right">2.07%</p> |
+| Congo. Dem. Rep. | <p align="right">102 262 810</p> | <p align="right">73 460 021</p> | <p align="right">3.92%</p> |
+| Viet Nam | <p align="right">98 858 950</p> | <p align="right">90 267 739</p> | <p align="right">0.95%</p> |
+| Iran. Islamic Rep. | <p align="right">89 172 770</p> | <p align="right">78 458 928</p> | <p align="right">1.37%</p> |
+| Turkiye | <p align="right">85 326 000</p> | <p align="right">76 147 624</p> | <p align="right">1.21%</p> |
+| Germany | <p align="right">84 482 270</p> | <p align="right">80 645 605</p> | <p align="right">0.48%</p> |
+| Thailand | <p align="right">71 801 280</p> | <p align="right">69 578 602</p> | <p align="right">0.32%</p> |
+| United Kingdom | <p align="right">68 350 000</p> | <p align="right">64 128 273</p> | <p align="right">0.66%</p> |
+| France | <p align="right">68 170 230</p> | <p align="right">66 002 289</p> | <p align="right">0.33%</p> |
+| Tanzania | <p align="right">67 438 110</p> | <p align="right">49 253 643</p> | <p align="right">3.69%</p> |
+| South Africa | <p align="right">60 414 500</p> | <p align="right">53 873 616</p> | <p align="right">1.21%</p> |
+| Italy | <p align="right">58 761 150</p> | <p align="right">60 233 948</p> | <p align="right">-0.24%</p> |
+| Kenya | <p align="right">55 100 590</p> | <p align="right">44 792 368</p> | <p align="right">2.30%</p> |
+| Myanmar | <p align="right">54 578 000</p> | <p align="right">50 648 334</p> | <p align="right">0.78%</p> |
+| Colombia | <p align="right">52 085 170</p> | <p align="right">46 237 930</p> | <p align="right">1.26%</p> |
+| Korea. Rep. | <p align="right">51 712 620</p> | <p align="right">50 428 893</p> | <p align="right">0.25%</p> |
+| Uganda | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="right">3.77%</p> |
 
 ## Spawner
 
