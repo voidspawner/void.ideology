@@ -34,6 +34,9 @@ As the population grows, the amount of innovation accelerates. **400 years** pas
 Achievement of the absolute of development is achieved by complete repopulation of the Universe, to be able to create matter from energy and transform energy into matter, to create any minerals and molecules, including DNA molecules.
 
 ## Population
+
+<img src="https://i.imgur.com/xbOsXRW.png" width="62%">
+
 The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20 000 000 000**.
 
 | Country | 2023 | 2013 | Percent per year |
@@ -68,8 +71,6 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Colombia | <p align="right">52 085 170</p> | <p align="right">46 237 930</p> | <p align="center">1.26 %</p> |
 | Korea. Rep. | <p align="right">51 712 620</p> | <p align="right">50 428 893</p> | <p align="center">0.25 %</p> |
 | **Uganda** | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="center">**3.77 %**</p> |
-
-<img src="https://i.imgur.com/xbOsXRW.png" width="100%">
 
 ## Spawner
 
