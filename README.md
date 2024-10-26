@@ -6,13 +6,13 @@
 <img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
 
 > [**About**](#about)・
-[**Technological singularity**](#technological-singularity)・
+[**Technological Singularity**](#technological-singularity)・
 [**Population**](#population)・
 [**Spawner**](#spawner)・
 [**Period**](#period)・
 [**10 × 10 × 10**](#10--10--10)
 
-## Technological singularity
+## Technological Singularity
 
 As the population grows, the amount of innovation accelerates. **400 years** passed from the invention of the book printing press to the program-controlled loom. And it took less than a **100 years** to develop microelectronics and artificial intelligence.
 
@@ -120,3 +120,5 @@ _______________
 ```
 
 This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, creating DNA molecules and new kinds of living beings.
+
+A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year**.
