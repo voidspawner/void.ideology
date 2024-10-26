@@ -10,8 +10,8 @@
 ## Population
 The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20 000 000 000**.
 
-| Country | 2023 | 2013 | Percent |
-| ------- | ---- | ---- | ------- |
+| Country | 2023 | 2013 | Percent per year |
+| ------- | ---- | ---- | ---------------- |
 | India | 1 428 627 660 | 1 291 132 063 | 1.06% |
 | China | 1 410 710 000 | 1 363 240 000 | 0.35% |
 | United States | 334 914 900 | 316 059 947 | 0.60% |
