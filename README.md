@@ -10,7 +10,9 @@
 [**Population**](#population)・
 [**Spawner**](#spawner)・
 [**Period**](#period)・
-[**10 × 10 × 10**](#10--10--10)
+[**10 × 10 × 10**](#10--10--10)・
+[**V O I D lang**](#void-lang)・
+[**V O I D os**](#void-os)
 
 ## Technological Singularity
 
@@ -125,3 +127,9 @@ _______________
 This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, creating DNA molecules and new kinds of living beings.
 
 A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year**.
+
+## V O I D lang
+**[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **V O I D** or **[JSON format](https://ru.wikipedia.org/wiki/JSON)**. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
+
+## V O I D os
+**[⌜ V O I D os ⌟](https://github.com/voidspawner/void.os)** is an Operating System that uses **V O I D lang** to run and create applications and games.
