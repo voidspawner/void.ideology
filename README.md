@@ -73,19 +73,31 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 
 We come to the point where human labor ceases to matter. When all the work is automated, the accrual of funds is also autonomous. Every second, funds are charged depending on how much energy has been extracted and material resources have been created.
 
-**⌜ voids ⌟** — currency accrued regardless of the work performed. Infinite creation is at the heart of **V O I D**.
+**⌜ voids ⌟** Currency accrued regardless of the work performed.
 
-> Endless game creation
-> Infinite social content creation
-> Infinite voids creation
-> Infinite tech creation
-> Infinite goods creation
-> Infinite medicine creation
-> Infinite food creation
-> Infinite real estate creation
-> Infinite delivery creation
-> Infinite energy creation
-> Infinite space tech creation
+Infinite creation is at the heart of **V O I D**.
+
+> **Infinite game creation**
+> 
+> **Infinite social content creation**
+> 
+> **Infinite voids creation**
+> 
+> **Infinite tech creation**
+> 
+> **Infinite goods creation**
+> 
+> **Infinite medicine creation**
+> 
+> **Infinite food creation**
+> 
+> **Infinite real estate creation**
+> 
+> **Infinite delivery creation**
+> 
+> **Infinite energy creation**
+> 
+> **Infinite space tech creation**
 
 ## Period
 **⌜ 2020 — 2040 ⌟** Transition period from capitalism to **V O I D**.
