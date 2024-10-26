@@ -21,6 +21,7 @@
 
 The concept underlying the achievement of **V O I D**.
 
+
 10+ technology directions
 
 10+ territories of distribution of these technologies
@@ -28,5 +29,6 @@ The concept underlying the achievement of **V O I D**.
 ∞10 000 000 voids earnings per year (∞1 = $1)
 _______________
 **∞1 000 000 000** voids per year
+
 
 This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, creating DNA molecules and new kinds of living beings.
