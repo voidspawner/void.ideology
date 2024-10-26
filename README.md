@@ -41,7 +41,7 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Myanmar | <p align="right">54 578 000</p> | <p align="right">50 648 334</p> | <p align="center">0.78 %</p> |
 | Colombia | <p align="right">52 085 170</p> | <p align="right">46 237 930</p> | <p align="center">1.26 %</p> |
 | Korea. Rep. | <p align="right">51 712 620</p> | <p align="right">50 428 893</p> | <p align="center">0.25 %</p> |
-| Uganda | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="center">**3.77 %**</p> |
+| **Uganda** | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="center">**3.77 %**</p> |
 
 ## Spawner
 
