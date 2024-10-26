@@ -18,6 +18,7 @@
 
 ## 10 × 10 × 10
 **Technology × Territory × Earnings**
+
 The concept underlying the achievement of **V O I D**.
 
 10+ technology directions
