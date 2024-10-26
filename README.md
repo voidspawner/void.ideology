@@ -51,7 +51,7 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 **「 After 2040 」** Fully autonomous production, accrual of funds to people in proportion to the resources created.
 
 ## 10 × 10 × 10
-**Technology × Territory × Earnings**
+**「 Technology × Territory × Earnings 」**
 
 The concept underlying the achievement of **V O I D**.
 
