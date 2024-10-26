@@ -11,8 +11,8 @@
 [**Spawner**](#spawner)・
 [**Period**](#period)・
 [**10 × 10 × 10**](#10--10--10)・
-[**V O I D lang**](#void-lang)・
-[**V O I D os**](#void-os)
+[**V O I D lang**](#v-o-i-d-lang)・
+[**V O I D os**](#v-o-i-d-os)
 
 ## Technological Singularity
 
