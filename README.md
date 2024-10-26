@@ -124,7 +124,7 @@ _______________
 ∞1 000 000 000 voids per year
 ```
 
-This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, creating DNA molecules and new kinds of living beings.
+This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, including the creation of gas molecules to produce planetary atmospheres and DNA molecules to populate them with new kinds of living beings.
 
 A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year**.
 
