@@ -69,6 +69,8 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Korea. Rep. | <p align="right">51 712 620</p> | <p align="right">50 428 893</p> | <p align="center">0.25 %</p> |
 | **Uganda** | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="center">**3.77 %**</p> |
 
+<img src="https://i.imgur.com/xbOsXRW.png" width="100%">
+
 ## Spawner
 
 We come to the point where human labor ceases to matter. When all the work is automated, the accrual of funds is also autonomous. Every second, funds are charged depending on how much energy has been extracted and material resources have been created.
