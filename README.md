@@ -84,6 +84,8 @@ Infinite creation is at the heart of **V O I D**.
 
 > **Infinite game creation**
 > 
+> **Infinite app creation**
+> 
 > **Infinite social content creation**
 > 
 > **Infinite voids creation**
@@ -96,13 +98,17 @@ Infinite creation is at the heart of **V O I D**.
 > 
 > **Infinite food creation**
 > 
-> **Infinite real estate creation**
+> **Infinite buildings creation**
 > 
 > **Infinite delivery creation**
 > 
 > **Infinite energy creation**
 > 
-> **Infinite space tech creation**
+> **Infinite species creation**
+> 
+> **Infinite rocket boosters creation**
+> 
+> **Infinite space spawners creation**
 
 ## Period
 **⌜ 2020 — 2040 ⌟** Transition period from capitalism to **V O I D**.
