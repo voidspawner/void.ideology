@@ -134,6 +134,18 @@ This amount is enough to conduct research into new developments of moving in spa
 
 A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year**.
 
+To achieve this, a **×100** increase tactic is used.
+
+> Investment **∞100 000** ・ Population **1 000**
+> 
+> Investment **∞1 000 000** ・ Population **10 000**
+> 
+> Investment **∞10 000 000** ・ Population **100 000**
+> 
+> Investment **∞100 000 000** ・ Population **1 000 000**
+> 
+> Investment **∞1 000 000 000** ・ Population **10 000 000**
+
 ## V O I D lang
 **[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **V O I D** or **[JSON format](https://ru.wikipedia.org/wiki/JSON)**. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
 
