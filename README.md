@@ -82,9 +82,9 @@ We come to the point where **human labor ceases to matter**. When all the work i
 
 Infinite creation is at the heart of **V O I D**.
 
-> **Infinite game creation**
+> **Infinite games creation**
 > 
-> **Infinite app creation**
+> **Infinite apps creation**
 > 
 > **Infinite social content creation**
 > 
