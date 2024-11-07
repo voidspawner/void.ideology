@@ -12,7 +12,8 @@
 [**Period**](#period)・
 [**10 × 10 × 10**](#10--10--10)・
 [**V O I D lang**](#v-o-i-d-lang)・
-[**V O I D os**](#v-o-i-d-os)
+[**V O I D os**](#v-o-i-d-os)・
+[**V O I D tech**](#v-o-i-d-tech)
 
 ## Technological Singularity
 
@@ -151,3 +152,6 @@ To achieve this, a **×100** increase tactic is used.
 
 ## V O I D os
 **[⌜ V O I D os ⌟](https://github.com/voidspawner/void.os)** is an Operating System that uses **V O I D lang** to run and create applications and games.
+
+## V O I D tech
+**[⌜ V O I D tech ⌟](https://github.com/voidspawner/void.tech)** is combinable devices controlled by **V O I D ai** to perform **home**, **business**, **industrial** purposes and **teaching children** to interact with technology.
