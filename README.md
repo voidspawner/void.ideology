@@ -155,13 +155,17 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **2024 — 2025** ・ Funds **∞1 000 000**
 > 
-> **V O I D spawner** game sale. 100 000 copies × ∞10 = ∞1 000 000
+> **V O I D spawner** game sale.
+>
+> 100 000 copies × ∞10 = ∞1 000 000
 
 ### Step 2
 
 > Years **2025 — 2040** ・ Funds **∞1 000 000 000**
 > 
-> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**. 10 000 00 population × ∞100 = ∞1 000 000 000
+> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**.
+>
+> 10 000 00 population × ∞100 = ∞1 000 000 000
 
 ### Step 3
 
