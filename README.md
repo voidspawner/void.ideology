@@ -9,8 +9,8 @@
 [**Technological Singularity**](#technological-singularity)・
 [**Population**](#population)・
 [**Spawner**](#spawner)・
-[**Period**](#period)・
 [**10 × 10 × 10**](#10--10--10)・
+[**Steps**](#steps)・
 [**V O I D lang**](#v-o-i-d-lang)・
 [**V O I D os**](#v-o-i-d-os)・
 [**V O I D tech**](#v-o-i-d-tech)
@@ -111,11 +111,6 @@ Infinite creation is at the heart of **V O I D**.
 > 
 > **Infinite space spawners creation**
 
-## Period
-**⌜ 2020 — 2040 ⌟** Transition period from capitalism to **V O I D**.
-
-**⌜ After 2040 ⌟** Fully autonomous production, accrual of funds to people in proportion to the resources created.
-
 ## 10 × 10 × 10
 **⌜ Technology × Territory × Earnings ⌟**
 
@@ -146,6 +141,33 @@ To achieve this, a **×100** increase tactic is used.
 > Investment **∞100 000 000** ・ Population **1 000 000**
 > 
 > Investment **∞1 000 000 000** ・ Population **10 000 000**
+
+## Steps
+### Step 0
+
+> Years **2020 — 2023** ・ Funds **∞10 000**
+> 
+> First investments. Determining the roadmap and testing of technologies.
+>
+> **Done**
+
+### Step 1
+
+> Years **2024 — 2025** ・ Funds **∞1 000 000**
+> 
+> **V O I D spawner** game sale. 100 000 copies × ∞10 = ∞1 000 000
+
+### Step 2
+
+> Years **2025 — 2040** ・ Funds **∞1 000 000 000**
+> 
+> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**. 10 000 00 population × ∞100 = ∞1 000 000 000
+
+### Step 3
+
+> Years **after 2040** ・ Funds **∞**
+> 
+> Fully autonomous production, accrual of funds to people in proportion to the resources created.
 
 ## V O I D lang
 **[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **[V O I D](https://github.com/voidspawner/void.lang#v-o-i-d-format)** or **[JSON format](https://ru.wikipedia.org/wiki/JSON)**. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
