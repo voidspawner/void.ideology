@@ -158,6 +158,8 @@ To achieve this, a **×100** increase tactic is used.
 > **V O I D spawner** game sale.
 >
 > 100 000 copies × ∞10 = ∞1 000 000
+>
+> **In progress…**
 
 ### Step 2
 
