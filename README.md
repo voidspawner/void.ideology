@@ -132,15 +132,15 @@ A starting population of **10 000 000** is needed to achieve this. And for their
 
 To achieve this, a **×100** increase tactic is used.
 
-> Investment **∞100 000** ・ Population **1 000**
+> Investment **∞100 000** → Population **1 000**
 > 
-> Investment **∞1 000 000** ・ Population **10 000**
+> Investment **∞1 000 000** → Population **10 000**
 > 
-> Investment **∞10 000 000** ・ Population **100 000**
+> Investment **∞10 000 000** → Population **100 000**
 > 
-> Investment **∞100 000 000** ・ Population **1 000 000**
+> Investment **∞100 000 000** → Population **1 000 000**
 > 
-> Investment **∞1 000 000 000** ・ Population **10 000 000**
+> Investment **∞1 000 000 000** → Population **10 000 000**
 
 ## Steps
 ### Step 0
