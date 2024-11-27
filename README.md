@@ -33,7 +33,7 @@ As the population grows, the amount of innovation accelerates. **400 years** pas
 | **Web Data Format**      | [**JSON**](https://en.wikipedia.org/wiki/JSON)                                          | <p align="center">1999</p>     |
 | **3D Craft Game**        | [**Minecraft**](https://en.wikipedia.org/wiki/Minecraft)                                | <p align="center">2009</p>     |
 | **AI**                   | [**Stable Diffusion**](https://ru.wikipedia.org/wiki/Stable_Diffusion)                  | <p align="center">2022</p>     |
-| **Ideology**             | [**V O I D**](https://github.com/voidspawner/void.ideology)                  | <p align="center">2022</p>     |
+| **Ideology**             | [**V O I D**](https://github.com/voidspawner/void.ideology)                             | <p align="center">2023</p>     |
 
 Achievement of the absolute of development is achieved by complete repopulation of the Universe, to be able to create matter from energy and transform energy into matter, to create any minerals and molecules, including DNA molecules.
 
