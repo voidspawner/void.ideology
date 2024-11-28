@@ -166,7 +166,7 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **2025 — 2040** ・ Funds **∞1 000 000 000**
 > 
-> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**.
+> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**. Creating a **social network** to engage people.
 >
 > 10 000 000 population × ∞100 = ∞1 000 000 000
 
