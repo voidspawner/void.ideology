@@ -156,7 +156,7 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **2024 — 2025** ・ Funds **∞1 000 000**
 > 
-> **V O I D spawner** game sale. ∞ Infinite game creator.
+> **V O I D spawner** game sale. ∞Infinite game creator.
 >
 > 100 000 copies × ∞10 = ∞1 000 000
 >
