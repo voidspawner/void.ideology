@@ -13,7 +13,8 @@
 [**Steps**](#steps)・
 [**V O I D lang**](#v-o-i-d-lang)・
 [**V O I D os**](#v-o-i-d-os)・
-[**V O I D tech**](#v-o-i-d-tech)
+[**V O I D tech**](#v-o-i-d-tech)・
+[**V O I D task**](#v-o-i-d-task)
 
 ## Technological Singularity
 
@@ -184,3 +185,9 @@ To achieve this, a **×100** increase tactic is used.
 
 ## V O I D tech
 **[⌜ V O I D tech ⌟](https://github.com/voidspawner/void.tech)** is combinable devices controlled by **V O I D ai** to perform **home**, **business**, **industrial** purposes and **teaching children** to interact with technology.
+
+## V O I D task
+> [!IMPORTANT]
+> By adding your code to a repository, you transfer the rights to the uploaded code to the owner of that repository **V O I D spawner**.
+
+Find out current **tasks** and **payment** at [**V O I D task**](https://github.com/voidspawner/void.task)
