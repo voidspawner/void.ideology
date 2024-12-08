@@ -55,7 +55,7 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Indonesia | <p align="right">534 191 449</p> | <p align="right">277 534 122</p> | <p align="right">253 275 918</p> | <p align="center">1.00%</p> |
 | **Tanzania** | <p align="right">522 896 403</p> | <p align="right">67 438 106</p> | <p align="right">49 253 643</p> | <p align="center">3.20%</p> |
 | United States | <p align="right">495 014 609</p> | <p align="right">334 914 895</p> | <p align="right">316 059 947</p> | <p align="center">0.60%</p> |
-| Egypt. Arab Rep. | <p align="right">412 341 397</p> | <p align="right">112 716 598</p> | <p align="right">93 377 890</p> | <p align="center">2.00%</p> |
+| Arab Republic of Egypt | <p align="right">412 341 397</p> | <p align="right">112 716 598</p> | <p align="right">93 377 890</p> | <p align="center">2.00%</p> |
 | **Uganda** | <p align="right">402 692 490</p> | <p align="right">48 582 334</p> | <p align="right">35 273 570</p> | <p align="center">3.30%</p> |
 | Bangladesh | <p align="right">376 828 850</p> | <p align="right">172 954 319</p> | <p align="right">154 030 139</p> | <p align="center">1.20%</p> |
 | Brazil | <p align="right">366 684 600</p> | <p align="right">216 422 446</p> | <p align="right">201 721 767</p> | <p align="center">0.80%</p> |
