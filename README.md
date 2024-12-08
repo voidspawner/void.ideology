@@ -68,13 +68,13 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | Iraq | <p align="right">243 252 718</p> | <p align="right">45 504 560</p> | <p align="right">35 481 800</p> | <p align="center">2.60%</p> |
 | **Mozambique** | <p align="right">231 783 761</p> | <p align="right">33 897 354</p> | <p align="right">25 251 731</p> | <p align="center">3.00%</p> |
 | Kenya | <p align="right">212 879 910</p> | <p align="right">55 100 586</p> | <p align="right">44 792 368</p> | <p align="center">2.10%</p> |
-| Iran. Islamic Rep. | <p align="right">206 704 900</p> | <p align="right">89 172 767</p> | <p align="right">78 458 928</p> | <p align="center">1.30%</p> |
+| Islamic Republic of Iran | <p align="right">206 704 900</p> | <p align="right">89 172 767</p> | <p align="right">78 458 928</p> | <p align="center">1.30%</p> |
 | Viet Nam | <p align="right">190 386 258</p> | <p align="right">98 858 950</p> | <p align="right">90 267 739</p> | <p align="center">1.00%</p> |
 | Turkiye | <p align="right">186 292 252</p> | <p align="right">85 326 000</p> | <p align="right">76 147 624</p> | <p align="center">1.20%</p> |
 | Cameroon | <p align="right">184 614 941</p> | <p align="right">28 647 293</p> | <p align="right">21 632 850</p> | <p align="center">2.90%</p> |
 | **Somalia** | <p align="right">182 376 451</p> | <p align="right">18 143 378</p> | <p align="right">12 852 485</p> | <p align="center">3.60%</p> |
 | **Mali** | <p align="right">180 521 625</p> | <p align="right">23 293 698</p> | <p align="right">17 004 033</p> | <p align="center">3.20%</p> |
-| Yemen. Rep. | <p align="right">171 947 657</p> | <p align="right">34 449 825</p> | <p align="right">26 984 002</p> | <p align="center">2.50%</p> |
+| Republic of Yemen | <p align="right">171 947 657</p> | <p align="right">34 449 825</p> | <p align="right">26 984 002</p> | <p align="center">2.50%</p> |
 | Madagascar | <p align="right">161 712 846</p> | <p align="right">30 325 732</p> | <p align="right">23 588 073</p> | <p align="center">2.60%</p> |
 
 ## Spawner
