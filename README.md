@@ -63,7 +63,7 @@ The global population is increasing at an average rate of **1.2% per year**. By 
 | **Angola** | <p align="right">345 102 523</p> | <p align="right">36 684 202</p> | <p align="right">26 147 002</p> | <p align="center">3.50%</p> |
 | **Sudan** | <p align="right">330 355 996</p> | <p align="right">48 109 006</p> | <p align="right">35 990 704</p> | <p align="center">3.00%</p> |
 | **Niger** | <p align="right">328 790 598</p> | <p align="right">27 202 843</p> | <p align="right">18 653 199</p> | <p align="center">3.90%</p> |
-| Afghanistan | <p align="right">289514412</p> | <p align="right">42239854</p> | <p align="right">31541209</p> | <p align="center">0.03</p> |
+| Afghanistan | <p align="right">289 514 412</p> | <p align="right">42 239 854</p> | <p align="right">31 541 209</p> | <p align="center">0.03</p> |
 | Mexico | <p align="right">247 381 124</p> | <p align="right">128 455 567</p> | <p align="right">117 290 686</p> | <p align="center">1.00%</p> |
 | Iraq | <p align="right">243 252 718</p> | <p align="right">45 504 560</p> | <p align="right">35 481 800</p> | <p align="center">2.60%</p> |
 | **Mozambique** | <p align="right">231 783 761</p> | <p align="right">33 897 354</p> | <p align="right">25 251 731</p> | <p align="center">3.00%</p> |
