@@ -186,6 +186,8 @@ To achieve this, a **×100** increase tactic is used.
 > 
 > Fully autonomous production, accrual of funds to people in proportion to the resources created.
 
+<img src="https://i.imgur.com/5WJ6fni.png" width="100%">
+
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
 
