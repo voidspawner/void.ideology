@@ -184,7 +184,7 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **after 2040** ・ Funds **∞**
 > 
-> Fully autonomous production, accrual of funds to people in proportion to the resources created.
+> Fully **[autonomous production](https://github.com/voidspawner/void.tech)**, accrual of funds to people in proportion to the resources created.
 
 <img src="https://i.imgur.com/5WJ6fni.png" width="100%">
 
