@@ -11,15 +11,17 @@
 [**Spawner**](#spawner)・
 [**10 × 10 × 10**](#10--10--10)・
 [**Steps**](#steps)・
+[**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
 [**V O I D os**](#v-o-i-d-os)・
-[**V O I D tech**](#v-o-i-d-tech)
+[**V O I D tech**](#v-o-i-d-tech)・
+[**V O I D task**](#v-o-i-d-task)
 
 ## Technological Singularity
 
 As the population grows, the amount of innovation accelerates. **400 years** passed from the invention of the book printing press to the program-controlled loom. And it took less than a **100 years** to develop microelectronics and artificial intelligence.
 
-| <p align="center">**Type**</p> | <p align="center">**Name**</p>                                                    | <p align="center">**Year**</p> |
+| Type                     | Name                                                                                    | Year                           |
 | -----------------------  | --------------------------------------------------------------------------------------- | ------------------------------ |
 | **Print**                | [**Johannes Gutenberg's Printing Press**](https://en.wikipedia.org/wiki/Printing_press) | <p align="center">1440</p>     |
 | **Programmatic Control** | [**Jacquard Machine**](https://en.wikipedia.org/wiki/Jacquard_machine)                  | <p align="center">1804</p>     |
@@ -41,40 +43,40 @@ Achievement of the absolute of development is achieved by complete repopulation 
 
 <img src="https://i.imgur.com/xbOsXRW.png" width="62%">
 
-The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20 000 000 000**.
+The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20  000 000 000**.
 
-| Country | 2023 | 2013 | Percent per year |
-| ------- | ---- | ---- | ---------------- |
-| India | <p align="right">1 428 627 660</p> | <p align="right">1 291 132 063</p> | <p align="center">1.06 %</p> |
-| China | <p align="right">1 410 710 000</p> | <p align="right">1 363 240 000</p> | <p align="center">0.35 %</p> |
-| United States | <p align="right">334 914 900</p> | <p align="right">316 059 947</p> | <p align="center">0.60 %</p> |
-| Indonesia | <p align="right">277 534 120</p> | <p align="right">253 275 918</p> | <p align="center">0.96 %</p> |
-| Pakistan | <p align="right">240 485 660</p> | <p align="right">205 337 562</p> | <p align="center">1.71 %</p> |
-| **Nigeria** | <p align="right">223 804 630</p> | <p align="right">174 726 123</p> | <p align="center">**2.81 %**</p> |
-| Brazil | <p align="right">216 422 450</p> | <p align="right">201 721 767</p> | <p align="center">0.73 %</p> |
-| Bangladesh | <p align="right">172 954 320</p> | <p align="right">154 030 139</p> | <p align="center">1.23 %</p> |
-| Russian Federation | <p align="right">148 826 130</p> | <p align="right">143 805 638</p> | <p align="center">0.35 %</p> |
-| Mexico | <p align="right">128 455 570</p> | <p align="right">117 290 686</p> | <p align="center">0.95 %</p> |
-| **Ethiopia** | <p align="right">126 527 060</p> | <p align="right">97 084 366</p> | <p align="center">**3.03 %**</p> |
-| Japan | <p align="right">124 516 650</p> | <p align="right">127 445 000</p> | <p align="center">-0.23 %</p> |
-| Philippines | <p align="right">117 337 370</p> | <p align="right">99 700 107</p> | <p align="center">1.77 %</p> |
-| **Egypt. Arab Rep.** | <p align="right">112 716 600</p> | <p align="right">93 377 890</p> | <p align="center">**2.07 %**</p> |
-| **Congo. Dem. Rep.** | <p align="right">102 262 810</p> | <p align="right">73 460 021</p> | <p align="center">**3.92 %**</p> |
-| Viet Nam | <p align="right">98 858 950</p> | <p align="right">90 267 739</p> | <p align="center">0.95 %</p> |
-| Iran. Islamic Rep. | <p align="right">89 172 770</p> | <p align="right">78 458 928</p> | <p align="center">1.37 %</p> |
-| Turkiye | <p align="right">85 326 000</p> | <p align="right">76 147 624</p> | <p align="center">1.21 %</p> |
-| Germany | <p align="right">84 482 270</p> | <p align="right">80 645 605</p> | <p align="center">0.48 %</p> |
-| Thailand | <p align="right">71 801 280</p> | <p align="right">69 578 602</p> | <p align="center">0.32 %</p> |
-| United Kingdom | <p align="right">68 350 000</p> | <p align="right">64 128 273</p> | <p align="center">0.66 %</p> |
-| France | <p align="right">68 170 230</p> | <p align="right">66 002 289</p> | <p align="center">0.33 %</p> |
-| **Tanzania** | <p align="right">67 438 110</p> | <p align="right">49 253 643</p> | <p align="center">**3.69 %**</p> |
-| South Africa | <p align="right">60 414 500</p> | <p align="right">53 873 616</p> | <p align="center">1.21 %</p> |
-| Italy | <p align="right">58 761 150</p> | <p align="right">60 233 948</p> | <p align="center">-0.24 %</p> |
-| **Kenya** | <p align="right">55 100 590</p> | <p align="right">44 792 368</p> | <p align="center">**2.30 %**</p> |
-| Myanmar | <p align="right">54 578 000</p> | <p align="right">50 648 334</p> | <p align="center">0.78 %</p> |
-| Colombia | <p align="right">52 085 170</p> | <p align="right">46 237 930</p> | <p align="center">1.26 %</p> |
-| Korea. Rep. | <p align="right">51 712 620</p> | <p align="right">50 428 893</p> | <p align="center">0.25 %</p> |
-| **Uganda** | <p align="right">48 582 330</p> | <p align="right">35 273 570</p> | <p align="center">**3.77 %**</p> |
+| Country                              | 2100                               | 2023                               | 2013                               | Percent per year                 |
+| ------------------------------------ | ---------------------------------- | ---------------------------------- | ---------------------------------- | -------------------------------- |
+| India                                | <p align="right">2 932 968 073</p> | <p align="right">1 428 627 663</p> | <p align="right">1 291 132 063</p> | <p align="center">1.10 %</p>     |
+| China                                | <p align="right">1 839 080 676</p> | <p align="right">1 410 710 000</p> | <p align="right">1 363 240 000</p> | <p align="center">0.40 %</p>     |
+| Nigeria                              | <p align="right">1 197 870 579</p> | <p align="right">223 804 632</p>   | <p align="right">174 726 123</p>   | <p align="center">2.60 %</p>     |
+| **Democratic Republic of the Congo** | <p align="right">901 761 013</p>   | <p align="right">102 262 808</p>   | <p align="right">73 460 021</p>    | <p align="center">**3.40 %**</p> |
+| Ethiopia                             | <p align="right">716 032 225</p>   | <p align="right">126 527 060</p>   | <p align="right">97 084 366</p>    | <p align="center">2.70 %</p>     |
+| Pakistan                             | <p align="right">675 299 607</p>   | <p align="right">240 485 658</p>   | <p align="right">205 337 562</p>   | <p align="center">1.60 %</p>     |
+| Indonesia                            | <p align="right">534 191 449</p>   | <p align="right">277 534 122</p>   | <p align="right">253 275 918</p>   | <p align="center">1.00 %</p>     |
+| **Tanzania**                         | <p align="right">522 896 403</p>   | <p align="right">67 438 106</p>    | <p align="right">49 253 643</p>    | <p align="center">**3.20 %**</p> |
+| United States                        | <p align="right">495 014 609</p>   | <p align="right">334 914 895</p>   | <p align="right">316 059 947</p>   | <p align="center">0.60 %</p>     |
+| Arab Republic of Egypt               | <p align="right">412 341 397</p>   | <p align="right">112 716 598</p>   | <p align="right">93 377 890</p>    | <p align="center">2.00 %</p>     |
+| **Uganda**                           | <p align="right">402 692 490</p>   | <p align="right">48 582 334</p>    | <p align="right">35 273 570</p>    | <p align="center">**3.30 %**</p> |
+| Bangladesh                           | <p align="right">376 828 850</p>   | <p align="right">172 954 319</p>   | <p align="right">154 030 139</p>   | <p align="center">1.20 %</p>     |
+| Brazil                               | <p align="right">366 684 600</p>   | <p align="right">216 422 446</p>   | <p align="right">201 721 767</p>   | <p align="center">0.80 %</p>     |
+| Philippines                          | <p align="right">352 993 813</p>   | <p align="right">117 337 368</p>   | <p align="right">99 700 107</p>    | <p align="center">1.70 %</p>     |
+| **Angola**                           | <p align="right">345 102 523</p>   | <p align="right">36 684 202</p>    | <p align="right">26 147 002</p>    | <p align="center">**3.50 %**</p> |
+| **Sudan**                            | <p align="right">330 355 996</p>   | <p align="right">48 109 006</p>    | <p align="right">35 990 704</p>    | <p align="center">**3.00 %**</p> |
+| **Niger**                            | <p align="right">328 790 598</p>   | <p align="right">27 202 843</p>    | <p align="right">18 653 199</p>    | <p align="center">**3.90 %**</p> |
+| Afghanistan                          | <p align="right">289 514 412</p>   | <p align="right">42 239 854</p>    | <p align="right">31 541 209</p>    | <p align="center">0.03 %</p>     |
+| Mexico                               | <p align="right">247 381 124</p>   | <p align="right">128 455 567</p>   | <p align="right">117 290 686</p>   | <p align="center">1.00 %</p>     |
+| Iraq                                 | <p align="right">243 252 718</p>   | <p align="right">45 504 560</p>    | <p align="right">35 481 800</p>    | <p align="center">2.60 %</p>     |
+| **Mozambique**                       | <p align="right">231 783 761</p>   | <p align="right">33 897 354</p>    | <p align="right">25 251 731</p>    | <p align="center">**3.00 %**</p> |
+| Kenya                                | <p align="right">212 879 910</p>   | <p align="right">55 100 586</p>    | <p align="right">44 792 368</p>    | <p align="center">2.10 %</p>     |
+| Islamic Republic of Iran             | <p align="right">206 704 900</p>   | <p align="right">89 172 767</p>    | <p align="right">78 458 928</p>    | <p align="center">1.30 %</p>     |
+| Viet Nam                             | <p align="right">190 386 258</p>   | <p align="right">98 858 950</p>    | <p align="right">90 267 739</p>    | <p align="center">1.00 %</p>     |
+| Turkiye                              | <p align="right">186 292 252</p>   | <p align="right">85 326 000</p>    | <p align="right">76 147 624</p>    | <p align="center">1.20 %</p>     |
+| Cameroon                             | <p align="right">184 614 941</p>   | <p align="right">28 647 293</p>    | <p align="right">21 632 850</p>    | <p align="center">2.90 %</p>     |
+| **Somalia**                          | <p align="right">182 376 451</p>   | <p align="right">18 143 378</p>    | <p align="right">12 852 485</p>    | <p align="center">**3.60 %**</p> |
+| **Mali**                             | <p align="right">180 521 625</p>   | <p align="right">23 293 698</p>    | <p align="right">17 004 033</p>    | <p align="center">**3.20 %**</p> |
+| Republic of Yemen                    | <p align="right">171 947 657</p>   | <p align="right">34 449 825</p>    | <p align="right">26 984 002</p>    | <p align="center">2.50 %</p>     |
+| Madagascar                           | <p align="right">161 712 846</p>   | <p align="right">30 325 732</p>    | <p align="right">23 588 073</p>    | <p align="center">2.60 %</p>     |
 
 ## Spawner
 
@@ -156,7 +158,7 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **2024 — 2025** ・ Funds **∞1 000 000**
 > 
-> **V O I D spawner** game sale.
+> **V O I D spawner** game sale. ∞Infinite game creator.
 >
 > 100 000 copies × ∞10 = ∞1 000 000
 >
@@ -166,15 +168,32 @@ To achieve this, a **×100** increase tactic is used.
 
 > Years **2025 — 2040** ・ Funds **∞1 000 000 000**
 > 
-> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**.
+> Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**. Creating a **decentralized social network** to gather people.
 >
 > 10 000 000 population × ∞100 = ∞1 000 000 000
+
+| Transition                                                 | Complete                                              |
+| ---------------------------------------------------------- | ----------------------------------------------------- |
+| Products are manufactured by third-party manufacturers     | Products are made in **spawners**                     |
+| Products are delivered by suppliers                        | Products are delivered autonomously from **spawners** |
+| Microelectronics are produced by third-party manufacturers | Microelectronics are made in **spawners**             |
+| Spacecraft are manufactured by third-party manufacturers   | Spacecraft are made in **spawners**                   |
+| Energy is generated and delivered by third-party suppliers | Energy is generated and delivered from **spawners**   |
 
 ### Step 3
 
 > Years **after 2040** ・ Funds **∞**
 > 
-> Fully autonomous production, accrual of funds to people in proportion to the resources created.
+> Fully **[autonomous production](https://github.com/voidspawner/void.tech)**, accrual of funds to people in proportion to the resources created.
+
+<img src="https://i.imgur.com/5WJ6fni.png" width="100%">
+
+## V O I D license
+**⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
+
+> **DO WHAT YOU WANT**
+
+You can use it in both **private** and **open source**, embed it in **free** or **paid** products. **Modify**. Create your **own solutions** based on it. **No need to specify the author**.
 
 ## V O I D lang
 **[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **[V O I D](https://github.com/voidspawner/void.lang#v-o-i-d-format)** or **[JSON](https://en.wikipedia.org/wiki/JSON)** format. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
@@ -184,3 +203,9 @@ To achieve this, a **×100** increase tactic is used.
 
 ## V O I D tech
 **[⌜ V O I D tech ⌟](https://github.com/voidspawner/void.tech)** is combinable devices controlled by **V O I D ai** to perform **home**, **business**, **industrial** purposes and **teaching children** to interact with technology.
+
+## V O I D task
+> [!IMPORTANT]
+> By adding your code to the repository, you are publishing it under the **V O I D licence**.
+
+Find out current **tasks** and **payment** at [**V O I D task**](https://github.com/voidspawner/void.task)
