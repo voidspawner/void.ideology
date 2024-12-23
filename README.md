@@ -3,7 +3,7 @@
 ## About
 **⌜V O I D⌟**  is not only about compact technologies, but also an **ideology** that shows where these technologies are taking us.
 
-<img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
 [**Technological Singularity**](#technological-singularity)・
