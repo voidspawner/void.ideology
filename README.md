@@ -171,22 +171,29 @@ To achieve this, a **×100** increase tactic is used.
 > Transition period from capitalism to **V O I D**. Sale of **tech**, **goods** and **voids**. Creating a **decentralized social network** to gather people.
 >
 > 10 000 000 population × ∞100 = ∞1 000 000 000
-
-| Transition                                                 | Complete                                              |
-| ---------------------------------------------------------- | ----------------------------------------------------- |
-| Products are manufactured by third-party manufacturers     | Products are made in **spawners**                     |
-| Products are delivered by suppliers                        | Products are delivered autonomously from **spawners** |
-| Microelectronics are produced by third-party manufacturers | Microelectronics are made in **spawners**             |
-| Spacecraft are manufactured by third-party manufacturers   | Spacecraft are made in **spawners**                   |
-| Energy is generated and delivered by third-party suppliers | Energy is generated and delivered from **spawners**   |
+>
+> | Transition                                                 | Complete                                              |
+> | ---------------------------------------------------------- | ----------------------------------------------------- |
+> | Products are manufactured by third-party manufacturers     | Products are made in **spawners**                     |
+> | Products are delivered by suppliers                        | Products are delivered autonomously from **spawners** |
+> | Microelectronics are produced by third-party manufacturers | Microelectronics are made in **spawners**             |
+> | Spacecraft are manufactured by third-party manufacturers   | Spacecraft are made in **spawners**                   |
+> | Energy is generated and delivered by third-party suppliers | Energy is generated and delivered from **spawners**   |
 
 ### Step 3
 
 > Years **after 2040** ・ Funds **∞**
 > 
 > Fully **[autonomous production](https://github.com/voidspawner/void.tech)**, accrual of funds to people in proportion to the resources created.
-
-<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/dome.webp" width="100%">
+>
+> Priority areas of technology:
+> - Instantaneous travel to any point of the Universe
+> - Transformation of matter into energy and energy into matter
+> - Quantum computing
+> - Artificial intelligence
+> - Construction of living beings
+> 
+> <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/dome.webp" width="100%">
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
