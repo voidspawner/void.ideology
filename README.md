@@ -3,7 +3,7 @@
 ## About
 **⌜V O I D⌟**  is not only about compact technologies, but also an **ideology** that shows where these technologies are taking us.
 
-<img src="https://i.imgur.com/kx2UcUh.jpg" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
 [**Technological Singularity**](#technological-singularity)・
@@ -186,7 +186,7 @@ To achieve this, a **×100** increase tactic is used.
 > 
 > Fully **[autonomous production](https://github.com/voidspawner/void.tech)**, accrual of funds to people in proportion to the resources created.
 
-<img src="https://i.imgur.com/5WJ6fni.png" width="100%">
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/dome.webp" width="100%">
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
