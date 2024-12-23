@@ -21,7 +21,7 @@
 
 As the population grows, the amount of innovation accelerates. **400 years** passed from the invention of the book printing press to the program-controlled loom. And it took less than a **100 years** to develop microelectronics and artificial intelligence.
 
-| <p align="center">**Type**</p> | <p align="center">**Name**</p>                                                    | <p align="center">**Year**</p> |
+| <p align="center" width=1000>**Type**</p> | <p align="center">**Name**</p>                                                    | <p align="center">**Year**</p> |
 | -----------------------  | --------------------------------------------------------------------------------------- | ------------------------------ |
 | **Print**                | [**Johannes Gutenberg's Printing Press**](https://en.wikipedia.org/wiki/Printing_press) | <p align="center">1440</p>     |
 | **Programmatic Control** | [**Jacquard Machine**](https://en.wikipedia.org/wiki/Jacquard_machine)                  | <p align="center">1804</p>     |
