@@ -41,7 +41,7 @@ Achievement of the absolute of development is achieved by complete repopulation 
 
 ## Population
 
-<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/population2.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/population2100.webp" width="100%">
 
 The global population is increasing at an average rate of **1.2% per year**. By the end of **2100**, the world's population will be **20  000 000 000**.
 
