@@ -172,6 +172,14 @@ To achieve this, a **×100** increase tactic is used.
 >
 > 10 000 000 population × ∞100 = ∞1 000 000 000
 
+| Transition                                                 | Complete                                       |
+| ---------------------------------------------------------- | ---------------------------------------------- |
+| Products are manufactured by third-party manufacturers     | The products are made in spawners              |
+| Goods are delivered by suppliers                           | Goods are supplied autonomously from spawners  |
+| Microelectronics are produced by third-party manufacturers | Microelectronics are made in spawners          |
+| Spacecraft are manufactured by third-party manufacturers   | Spacecraft are made in spawners                |
+| Energy is generated and supplied by third-party suppliers  | Energy is generated and supplied from spawners |
+
 ### Step 3
 
 > Years **after 2040** ・ Funds **∞**
