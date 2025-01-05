@@ -129,13 +129,15 @@ _______________
 
 By continuously increasing investment by **×10**, the population increases proportionately.
 
-> Investment **∞10 000** → Population **10 000**
+> Investment **∞10 000** → Population **1 000**
 > 
-> Investment **∞100 000** → Population **100 000**
+> Investment **∞100 000** → Population **10 000**
 > 
-> Investment **∞1 000 000** → Population **1 000 000**
+> Investment **∞1 000 000** → Population **100 000**
 > 
-> Investment **∞10 000 000** → Population **10 000 000**
+> Investment **∞10 000 000** → Population **1 000 000**
+> 
+> Investment **∞100 000 000** → Population **10 000 000**
 
 This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, including the creation of gas molecules to produce planetary atmospheres and DNA molecules to populate them with new kinds of living beings.
 
