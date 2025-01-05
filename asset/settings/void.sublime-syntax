@@ -21,7 +21,7 @@ contexts:
     - match: '^\t*http[s]{0,1}://.*?$'
       scope: constant.numeric
 
-    - match: '^\t*[a-zA-Z-_]+@[a-zA-Z-_.]*?$'
+    - match: '^\t*[0-9a-zA-Z-_]+@[0-9a-zA-Z-_.]*?$'
       scope: constant.numeric
 
     - match: '^\t*\+[0-9- \(\)]{5,}$'
