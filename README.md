@@ -9,7 +9,7 @@
 [**Technological Singularity**](#technological-singularity)・
 [**Population**](#population)・
 [**Spawner**](#spawner)・
-[**10 × 10 × 10**](#10--10--10)・
+[**10 000 000**](#10-000-000)・
 [**Steps**](#steps)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
@@ -114,36 +114,30 @@ Infinite creation is at the heart of **V O I D**.
 > 
 > **Infinite space spawners creation**
 
-## 10 × 10 × 10
-**⌜ Technology × Territory × Earnings ⌟**
-
+## 10 000 000
 The concept underlying the achievement of **V O I D**.
 
+A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year** (∞1 void = $1).
+
 ```
-10+ technology directions
+10 000 000 population
 
-10+ territories of distribution of these technologies
-
-∞10 000 000 voids earnings per year (∞1 void = $1)
+∞100 coverage
 _______________
 ∞1 000 000 000 voids per year
 ```
 
+By continuously increasing investment by **×10**, the population increases proportionately.
+
+> Investment **∞10 000** → Population **10 000**
+> 
+> Investment **∞100 000** → Population **100 000**
+> 
+> Investment **∞1 000 000** → Population **1 000 000**
+> 
+> Investment **∞10 000 000** → Population **10 000 000**
+
 This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, including the creation of gas molecules to produce planetary atmospheres and DNA molecules to populate them with new kinds of living beings.
-
-A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year**.
-
-To achieve this, a **×100** increase tactic is used.
-
-> Investment **∞100 000** → Population **1 000**
-> 
-> Investment **∞1 000 000** → Population **10 000**
-> 
-> Investment **∞10 000 000** → Population **100 000**
-> 
-> Investment **∞100 000 000** → Population **1 000 000**
-> 
-> Investment **∞1 000 000 000** → Population **10 000 000**
 
 ## Steps
 ### Step 0
