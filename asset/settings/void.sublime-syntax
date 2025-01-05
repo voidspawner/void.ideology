@@ -14,7 +14,8 @@ contexts:
       scope: punctuation.definition.string.begin
       push: quoted_single_text
 
-    - match: '^\t*[∞$€£¥]{0,1}[+-]{0,1}[0-9][0-9_., ]*[%]{0,1}( kb| mb| gb| tb| Kb| Mb| Gb| Tb| KB| MB| GB| TB| mhz| MHz| ghz| GHz| bit| byte| μm| nm|"){0,1}$'
+    - match: >
+        ^\t*.{0,1}[ ]{0,1}[+-]{0,1}[0-9][0-9_., ]+[^0-9']*?$
       scope: constant.numeric
 
     - match: '^\t*http[s]{0,1}://.*?$'
@@ -51,6 +52,10 @@ contexts:
     - match: >
         ^\t\t\t\t[^\t"'].*?$
       scope: variable.function
+
+    - match: >
+        ^\t\t\t\t\t[^\t"'].*?$
+      scope: punctuation.definition.string
 
     - match: >
         ^\t*[^"'].*?$
