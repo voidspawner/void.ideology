@@ -7,12 +7,13 @@ scope: source.void
 contexts:
   main:
     - match: >
-        ^\t*(['"])(.*?)(['"]:)(.*?)$
+        ^\t*(['"])(.*?)(['"]:)(.*?)(,?)$
       captures:
         1: punctuation.definition.string
-        2: string.quoted
+        2: string
         3: punctuation.definition.string
         4: constant.numeric
+        5: punctuation.definition.comment
 
     - match: '^\t*"'
       scope: punctuation.definition.string.begin
@@ -22,8 +23,10 @@ contexts:
       scope: punctuation.definition.string.begin
       push: quoted_single_text
 
-    - match: "^\t*\\[.*$"
-      scope: string.quoted
+    - match: "^\t*([\\[\\]].*?)(,?)$"
+      captures:
+        1: string
+        2: punctuation.definition.comment
 
     - match: >
         ^\t*.?[ ]?[+-]?[0-9][0-9_., "']*?[%]?( \w*)?$
@@ -60,21 +63,25 @@ contexts:
       scope: variable.odd
 
   quoted_text:
-    - meta_scope: string.quoted
+    - meta_scope: string
     
-    - match: '("|$)'
-      scope: punctuation.definition.string.end
+    - match: '(?:(")(.*?)$)|$'
+      captures:
+        1: punctuation.definition.string.end
+        2: punctuation.definition.comment
       pop: true
 
     - match: '.+?'
-      scope: string.quoted
+      scope: string
 
   quoted_single_text:
-    - meta_scope: string.quoted
+    - meta_scope: string
     
-    - match: "('|$)"
-      scope: punctuation.definition.string.end
+    - match: "(?:(')(.*?)$)|$"
+      captures:
+        1: punctuation.definition.string.end
+        2: punctuation.definition.comment
       pop: true
 
     - match: '.+?'
-      scope: string.quoted
+      scope: string
