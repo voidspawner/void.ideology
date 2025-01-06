@@ -123,7 +123,7 @@ A starting population of **10 000 000** is needed to achieve this. And for their
 >   10 000 000 population
 > ×
 >   ∞100 sales
-> _______________
+>   _____________
 >   ∞1 000 000 000 voids per year
 > ```
 
