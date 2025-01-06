@@ -119,13 +119,13 @@ The concept underlying the achievement of **V O I D**.
 
 A starting population of **10 000 000** is needed to achieve this. And for their needs to have a coverage of **∞100 per year** (∞1 void = $1).
 
-```
-10 000 000 population
-
-∞100 coverage
-_______________
-∞1 000 000 000 voids per year
-```
+> ```
+>   10 000 000 population
+> ×
+>   ∞100 sales
+> _______________
+>   ∞1 000 000 000 voids per year
+> ```
 
 By continuously increasing investment by **×10**, the population increases proportionately.
 
