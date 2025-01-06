@@ -6,6 +6,14 @@ scope: source.void
 
 contexts:
   main:
+    - match: >
+        ^\t*(['"])(.*?)(['"]:)(.*?)$
+      captures:
+        1: punctuation.definition.string
+        2: string.quoted
+        3: punctuation.definition.string
+        4: constant.numeric
+
     - match: '^\t*"'
       scope: punctuation.definition.string.begin
       push: quoted_text
@@ -14,18 +22,24 @@ contexts:
       scope: punctuation.definition.string.begin
       push: quoted_single_text
 
+    - match: "^\t*\\[.*$"
+      scope: string.quoted
+
     - match: >
-        ^\t*.{0,1}[ ]{0,1}[+-]{0,1}[0-9][0-9_., "']*?[%]{0,1}( \w*){0,1}?$
+        ^\t*.?[ ]?[+-]?[0-9][0-9_., "']*?[%]?( \w*)?$
       scope: constant.numeric
 
-    - match: '^\t*http[s]{0,1}://.*?$'
-      scope: constant.numeric
+    - match: '^\t*(http[s]?://.*?$)'
+      captures:
+        1: markup.underline.link
 
-    - match: '^\t*[0-9a-zA-Z-_]+@[0-9a-zA-Z-_.]*?$'
-      scope: constant.numeric
+    - match: '^\t*([0-9a-zA-Z-_]+@[0-9a-zA-Z-_.]+$)'
+      captures:
+        1: markup.underline.link
 
-    - match: '^\t*\+[0-9- \(\)]{5,}$'
-      scope: constant.numeric
+    - match: '^\t*(\+[0-9- \(\)]{5,}$)'
+      captures:
+        1: markup.underline.link
 
     - match: '^\t*(?:true|false)$'
       scope: constant.language.boolean
@@ -34,49 +48,33 @@ contexts:
       scope: constant.language.null
 
     - match: >
-        ^[^\t"'].*?$
-      scope: variable
+        ^(?:(\t){2})*[^\t"'\[].*?$
+      scope: variable.odd
 
     - match: >
-        ^\t[^\t"'].*?$
-      scope: entity.name.function
+        ^\t(?:(\t){2})*[^\t"'\[].*?$
+      scope: variable.even
 
     - match: >
-        ^\t\t[^\t"'].*?$
-      scope: keyword.operator
-
-    - match: >
-        ^\t\t\t[^\t"'].*?$
-      scope: keyword.control
-
-    - match: >
-        ^\t\t\t\t[^\t"'].*?$
-      scope: variable.function
-
-    - match: >
-        ^\t\t\t\t\t[^\t"'].*?$
-      scope: punctuation.definition.string
-
-    - match: >
-        ^\t*[^"'].*?$
-      scope: string.quoted.double
+        ^\t*[^"'\[].*?$
+      scope: variable.odd
 
   quoted_text:
-    - meta_scope: string.quoted.double
+    - meta_scope: string.quoted
     
-    - match: '"'
+    - match: '("|$)'
       scope: punctuation.definition.string.end
       pop: true
 
     - match: '.+?'
-      scope: string.quoted.double
+      scope: string.quoted
 
   quoted_single_text:
-    - meta_scope: string.quoted.double
+    - meta_scope: string.quoted
     
-    - match: "'"
+    - match: "('|$)"
       scope: punctuation.definition.string.end
       pop: true
 
     - match: '.+?'
-      scope: string.quoted.double
+      scope: string.quoted
