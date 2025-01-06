@@ -23,7 +23,7 @@ contexts:
       scope: punctuation.definition.string.begin
       push: quoted_single_text
 
-    - match: "^\t*([\\[\\]].*?)(,?)$"
+    - match: "^\t*([\\[\\]{}].*?)(,?)$"
       captures:
         1: string
         2: punctuation.definition.comment
