@@ -12,6 +12,7 @@
 [**10 000 000**](#10-000-000)・
 [**Steps**](#steps)・
 [**V O I D citizen**](#v-o-i-d-citizen)・
+[**V O I D game**](#v-o-i-d-game)・
 [**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
 [**V O I D os**](#v-o-i-d-os)・
@@ -198,6 +199,9 @@ There are two ways to become **V O I D citizen**:
 
 > 1. Buy it for **∞80**
 > 2. Reaching accruals of **∞80**
+
+## V O I D game
+**⌜V O I D game⌟**  is a game that creates an **infinite** number of the games, v-apps and content.
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
