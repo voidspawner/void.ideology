@@ -14,10 +14,10 @@
 [**V O I D citizen**](#v-o-i-d-citizen)・
 [**V O I D game**](#v-o-i-d-game)・
 [**V O I D social**](#v-o-i-d-social)・
-[**V O I D license**](#v-o-i-d-license)・
 [**V O I D lang**](#v-o-i-d-lang)・
 [**V O I D os**](#v-o-i-d-os)・
 [**V O I D tech**](#v-o-i-d-tech)・
+[**V O I D license**](#v-o-i-d-license)・
 [**V O I D task**](#v-o-i-d-task)
 
 ## Technological Singularity
