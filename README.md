@@ -201,7 +201,7 @@ There are two ways to become **V O I D citizen**:
 > 2. Reaching accruals of **∞80**
 
 ## V O I D game
-**⌜V O I D game⌟**  is a game that creates an **infinite** number of the games, v-apps and content.
+**[⌜V O I D game⌟](https://github.com/voidspawner/void.lang)**  is a game that creates an **infinite** number of the games, v-apps and content.
 
 ## V O I D license
 **⌜ V O I D license ⌟** is a license to distribute digital content and goods. Expressed in a single sentence:
