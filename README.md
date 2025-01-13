@@ -3,7 +3,7 @@
 ## About
 **⌜V O I D⌟**  is not only about compact technologies, but also an **ideology** that shows where these technologies are taking us.
 
-<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
 [**Technological Singularity**](#technological-singularity)・
@@ -44,7 +44,7 @@ Achievement of the absolute of development is achieved by complete repopulation 
 
 ## Population
 
-<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/population2100.webp" width="100%">
+<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/population2100.webp" width="100%">
 
 The global population is increasing at an average rate of **1.1% per year**. By the end of **2100**, the world's population will be **20  000 000 000**.
 
@@ -192,7 +192,7 @@ This amount is enough to conduct research into new developments of moving in spa
 > - Artificial intelligence
 > - Construction of living beings
 > 
-> <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/dome.webp" width="100%">
+> <img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/dome.webp" width="100%">
 
 ## V O I D citizen
 **⌜ V O I D citizen ⌟** is a participant in resource distribution.
