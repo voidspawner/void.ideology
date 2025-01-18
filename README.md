@@ -197,7 +197,7 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > <img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/dome.webp" width="100%">
 
 ## V O I D citizen
-**⌜ V O I D citizen ⌟** is a participant in resource distribution. To become one, you only need to have a balance greater than or equal to **∞80**. The higher the balance, the higher the **status** and the more is **accrued**. The higher the balance, the more is accrued.
+**⌜ V O I D citizen ⌟** is a participant in resource distribution. To become one, only need to have a balance greater than or equal to **∞80**. The higher the balance, the higher the **status** and the more is **accrued**.
 
 > **∞80** ・ Citizen
 > 
