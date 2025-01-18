@@ -200,10 +200,15 @@ With the needs **fully covered**, this number of people is enough to raise funds
 **⌜ V O I D citizen ⌟** is a participant in resource distribution. To become one, you only need to have a balance greater than or equal to **∞80**. The higher the balance, the higher the **status** and the more is **accrued**. The higher the balance, the more is accrued.
 
 > **∞80** ・ Citizen
+> 
 > **∞800** ・ Great Citizen
+> 
 > **∞8 000** ・ Grand Citizen
+> 
 > **∞80 000** ・ Master Citizen
+> 
 > **∞800 000** ・ Ultimate Citizen
+> 
 > **∞8 000 000** ・ Legendary Citizen
 
 ## V O I D game
