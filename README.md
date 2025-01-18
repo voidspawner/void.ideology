@@ -142,7 +142,9 @@ By continuously increasing investment by **×10**, the population increases prop
 > 
 > Investment **∞100 000 000** → Population **10 000 000**
 
-This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, including the creation of gas molecules to produce planetary atmospheres and DNA molecules to populate them with new kinds of living beings.
+<img src="https://cdn.howmuch.net/articles/breakdown-average-american-spending-%281%29-3c77.jpg" width="100%">
+
+With the needs **fully covered**, this number of people is enough to raise funds for research and development and building production facilities to create **V O I D spawner**.
 
 ## Steps
 ### Step 0
