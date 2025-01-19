@@ -210,7 +210,7 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > **∞8 000 000** ・ Legendary Citizen
 
 ## V O I D voids
-**⌜ voids ⌟** is a currency operating in the **V O I D** ecosystem. Currency accrued regardless of the work performed. Currency is accrued to citizens regardless of the work performed and depends only on the amount of recourses created. The **capitalization** of the currency is **infinite**.
+**⌜ voids ⌟** is a currency operating in the **V O I D** ecosystem. Currency is accrued to citizens regardless of the work performed. Depends only on the amount of recourses created. The **capitalization** of the currency is **infinite**.
 
 > ∞1 void = $1
 
