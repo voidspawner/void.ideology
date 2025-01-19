@@ -212,7 +212,7 @@ With the needs **fully covered**, this number of people is enough to raise funds
 ## V O I D voids
 **⌜ voids ⌟** is a currency operating in the **V O I D** ecosystem. Currency is accrued to citizens regardless of the work performed. Depends only on the amount of recourses created. The **capitalization** of the currency is **infinite**.
 
-> ∞1 void = $1
+> **∞1 void = $1**
 
 ## V O I D game
 **[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
