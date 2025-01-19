@@ -85,8 +85,6 @@ The global population is increasing at an average rate of **1.1% per year**. By 
 
 We come to the point where **human labor ceases to matter**. When all the work is automated, the accrual of funds is also autonomous. Every second, funds are charged depending on how much energy has been extracted and material resources have been created.
 
-**⌜ voids ⌟** currency accrued regardless of the work performed.
-
 Infinite creation is at the heart of **V O I D**.
 
 > **Infinite games creation**
@@ -210,6 +208,11 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > **∞800 000** ・ Ultimate Citizen
 > 
 > **∞8 000 000** ・ Legendary Citizen
+
+## V O I D voids
+**⌜ voids ⌟** is a currency operating in the **V O I D** ecosystem. Currency accrued regardless of the work performed. Currency is accrued to citizens regardless of the work performed and depends only on the amount of recourses created. The **capitalization** of the currency is **infinite**.
+
+> ∞1 void = $1
 
 ## V O I D game
 **[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
