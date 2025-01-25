@@ -216,7 +216,7 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > **∞1 void = $1**
 
 ## V O I D game
-**[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
+**[⌜V O I D game⌟](https://voidspawner.github.io)** is a game that creates an **infinite** number of games, v-apps and content.
 
 ## V O I D social
 **⌜ V O I D social ⌟** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
