@@ -34,13 +34,13 @@ As the population grows, the amount of innovation accelerates. **400 years** pas
 | **Programming Language** | [**Short Code**](https://en.wikipedia.org/wiki/Short_Code_(computer_language))          | <p align="center">1950</p>     |
 | **OS**                   | [**GM-NAA I/O**](https://en.wikipedia.org/wiki/GM-NAA_I/O)                              | <p align="center">1956</p>     |
 | **Game**                 | [**Spacewar!**](https://en.wikipedia.org/wiki/Spacewar!)                                | <p align="center">1962</p>     |
-| **CPU**                  | [**Intel 8086**](https://ru.wikipedia.org/wiki/Intel_8086)                              | <p align="center">1978</p>     |
+| **CPU**                  | [**Intel 8086**](https://en.wikipedia.org/wiki/Intel_8086)                              | <p align="center">1978</p>     |
 | **HTTP Server**          | [**CERN httpd**](https://en.wikipedia.org/wiki/CERN_httpd)                              | <p align="center">1990</p>     |
 | **Web Language**         | [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript)                              | <p align="center">1995</p>     |
 | **Social Network**       | [**SixDegrees**](https://en.wikipedia.org/wiki/SixDegrees.com)                          | <p align="center">1997</p>     |
 | **Web Data Format**      | [**JSON**](https://en.wikipedia.org/wiki/JSON)                                          | <p align="center">1999</p>     |
 | **3D Craft Game**        | [**Minecraft**](https://en.wikipedia.org/wiki/Minecraft)                                | <p align="center">2009</p>     |
-| **AI**                   | [**Stable Diffusion**](https://ru.wikipedia.org/wiki/Stable_Diffusion)                  | <p align="center">2022</p>     |
+| **AI**                   | [**Stable Diffusion**](https://en.wikipedia.org/wiki/Stable_Diffusion)                  | <p align="center">2022</p>     |
 | **Ideology**             | [**V O I D**](https://github.com/voidspawner/void.ideology)                             | <p align="center">2023</p>     |
 
 Achievement of the absolute of development is achieved by complete repopulation of the Universe, to be able to create matter from energy and transform energy into matter, to create any minerals and molecules, including DNA molecules.
