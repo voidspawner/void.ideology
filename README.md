@@ -210,7 +210,7 @@ In the first step, the **Director** takes over the management of **all direction
 
 ### Step 2
 
-In the second step, a dedicated person is assigned to each direction, combining the functions of **Product Manager** and **Team Leader**. This person sets and accepts tasks for employees and AI.
+A dedicated person is assigned to each direction, combining the functions of **Product Manager** and **Team Leader**. This person sets and accepts tasks for employees and AI.
 
 ### Step 3
 
