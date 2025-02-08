@@ -11,6 +11,7 @@
 [**Spawner**](#spawner)・
 [**10 000 000**](#10-000-000)・
 [**Steps**](#steps)・
+[**Structure**](#structure)・
 [**V O I D citizen**](#v-o-i-d-citizen)・
 [**V O I D voids**](#v-o-i-d-voids)・
 [**V O I D game**](#v-o-i-d-game)・
@@ -196,6 +197,24 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > - Construction of living beings
 > 
 > <img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/dome.webp" width="100%">
+
+## Structure
+
+<img src="https://raw.githubusercontent.com/voidspawner/voidspawner.github.io/refs/heads/main/site/image/structure.webp" width="100%">
+
+To create **V O I D spawner**, the company structure follows the same steps.
+
+### Step 1
+
+In the first step, the **Director** takes over the management of **all directions**. The work of creation is done by **AI**. Since the AI cannot yet set and accept tasks on its own, it is directed by the Director.
+
+### Step 2
+
+In the second step, a dedicated person is assigned to each direction, combining the functions of **Product Manager** and **Team Leader**. This person sets and accepts tasks for employees and AI.
+
+### Step 3
+
+Each **PM·TL** has its own team of PM·TLs who work on the **details** of the project. In turn, they also have their own PM·TL team, etc. Gradually, full control is taken over by the **V O I D**.
 
 ## V O I D citizen
 **⌜ V O I D citizen ⌟** is a participant in resource distribution. To become one, only need to have a balance greater than or equal to **∞80**. The higher the balance, the higher the **status** and the more is **accrued**.
