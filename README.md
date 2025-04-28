@@ -3,7 +3,7 @@
 ## About
 **⌜V O I D⌟**  is not only about compact technologies, but also an **ideology** that shows where these technologies are taking us.
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/logo.jpg" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/logo.jpg" width="100%">
 
 > [**About**](#about)・
 [**Technological Singularity**](#technological-singularity)・
@@ -48,7 +48,7 @@ Achievement of the absolute of development is achieved by complete repopulation 
 
 ## Population
 
-<img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/population2100.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/population2100.webp" width="100%">
 
 The global population is increasing at an average rate of **1.1% per year**. By the end of **2100**, the world's population will be **20  000 000 000**.
 
@@ -144,7 +144,7 @@ By continuously increasing investment by **×10**, the population increases prop
 > 
 > Investment **∞100 000 000** → Population **10 000 000**
 
-<img src="https://raw.githubusercontent.com/voidspawner/voidspawner.github.io/refs/heads/main/site/image/spending3.webp" width="100%">
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/blob/main/asset/image/spending3.webp" width="100%">
 
 With the needs **fully covered**, this number of people is enough to raise funds for research and development and building production facilities to create **V O I D spawner**.
 
@@ -196,11 +196,11 @@ With the needs **fully covered**, this number of people is enough to raise funds
 > - Artificial intelligence
 > - Construction of living beings
 > 
-> <img src="https://github.com/voidspawner/voidspawner.github.io/blob/main/site/image/dome.webp" width="100%">
+> <img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/dome.webp" width="100%">
 
 ## Structure
 
-<img src="https://raw.githubusercontent.com/voidspawner/voidspawner.github.io/refs/heads/main/site/image/structure.webp" width="100%">
+<img src="https://raw.githubusercontent.com/void.ideology/blob/main/asset/image/structure.webp" width="100%">
 
 To create **V O I D spawner**, the company structure follows the same steps.
 
