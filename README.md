@@ -237,10 +237,10 @@ Each **PM·TL** has its own team of PM·TLs who work on the **details** of the p
 > **∞1 void = $1**
 
 ## V O I D game
-**[⌜V O I D game⌟](https://voidspawner.github.io)** is a game that creates an **infinite** number of games, v-apps and content.
+**[⌜ V O I D game ⌟](https://voidsp.ru/void.game)** is a game that creates an **infinite** number of games, vapps and content.
 
 ## V O I D social
-**⌜ V O I D social ⌟** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
+**[⌜ V O I D social ⌟](https://voidsp.ru/void.social)** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
 
 ## V O I D lang
 **[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **[V O I D](https://github.com/voidspawner/void.lang#v-o-i-d-format)** or **[JSON](https://en.wikipedia.org/wiki/JSON)** format. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
@@ -262,4 +262,4 @@ You can use it in both **private** and **open source**, embed it in **free** or 
 > [!IMPORTANT]
 > By adding your code to the repository, you are publishing it under the **V O I D licence**.
 
-Find out current **tasks** and **payment** at [**V O I D task**](https://github.com/voidspawner/void.task)
+Find out current **tasks** and **payment** at [**V O I D task**](https://voidsp.ru/void.task)
