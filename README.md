@@ -200,7 +200,7 @@ With the needs **fully covered**, this number of people is enough to raise funds
 
 ## Structure
 
-<img src="https://raw.githubusercontent.com/void.ideology/blob/main/asset/image/structure.webp" width="100%">
+<img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/structure.webp" width="100%">
 
 To create **V O I D spawner**, the company structure follows the same steps.
 
