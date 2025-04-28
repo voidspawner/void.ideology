@@ -11,7 +11,9 @@
 [**Spawner**](#spawner)・
 [**10 000 000**](#10-000-000)・
 [**Steps**](#steps)・
+[**Structure**](#structure)・
 [**V O I D citizen**](#v-o-i-d-citizen)・
+[**V O I D voids**](#v-o-i-d-voids)・
 [**V O I D game**](#v-o-i-d-game)・
 [**V O I D social**](#v-o-i-d-social)・
 [**V O I D lang**](#v-o-i-d-lang)・
@@ -26,18 +28,20 @@ As the population grows, the amount of innovation accelerates. **400 years** pas
 
 | Type                     | Name                                                                                    | Year                           |
 | -----------------------  | --------------------------------------------------------------------------------------- | ------------------------------ |
+| **Calculating**          | [**Abacus**](https://en.wikipedia.org/wiki/Abacus)                                      | <p align="center">2500 BC</p>  |
 | **Print**                | [**Johannes Gutenberg's Printing Press**](https://en.wikipedia.org/wiki/Printing_press) | <p align="center">1440</p>     |
 | **Programmatic Control** | [**Jacquard Machine**](https://en.wikipedia.org/wiki/Jacquard_machine)                  | <p align="center">1804</p>     |
+| **Multiplying**          | [**Arithmometer**](https://en.wikipedia.org/wiki/Arithmometer)                          | <p align="center">1820</p>     |
 | **Programming Language** | [**Short Code**](https://en.wikipedia.org/wiki/Short_Code_(computer_language))          | <p align="center">1950</p>     |
 | **OS**                   | [**GM-NAA I/O**](https://en.wikipedia.org/wiki/GM-NAA_I/O)                              | <p align="center">1956</p>     |
 | **Game**                 | [**Spacewar!**](https://en.wikipedia.org/wiki/Spacewar!)                                | <p align="center">1962</p>     |
-| **CPU**                  | [**Intel 8086**](https://ru.wikipedia.org/wiki/Intel_8086)                              | <p align="center">1978</p>     |
+| **CPU**                  | [**Intel 8086**](https://en.wikipedia.org/wiki/Intel_8086)                              | <p align="center">1978</p>     |
 | **HTTP Server**          | [**CERN httpd**](https://en.wikipedia.org/wiki/CERN_httpd)                              | <p align="center">1990</p>     |
 | **Web Language**         | [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript)                              | <p align="center">1995</p>     |
 | **Social Network**       | [**SixDegrees**](https://en.wikipedia.org/wiki/SixDegrees.com)                          | <p align="center">1997</p>     |
 | **Web Data Format**      | [**JSON**](https://en.wikipedia.org/wiki/JSON)                                          | <p align="center">1999</p>     |
 | **3D Craft Game**        | [**Minecraft**](https://en.wikipedia.org/wiki/Minecraft)                                | <p align="center">2009</p>     |
-| **AI**                   | [**Stable Diffusion**](https://ru.wikipedia.org/wiki/Stable_Diffusion)                  | <p align="center">2022</p>     |
+| **AI**                   | [**Stable Diffusion**](https://en.wikipedia.org/wiki/Stable_Diffusion)                  | <p align="center">2022</p>     |
 | **Ideology**             | [**V O I D**](https://github.com/voidspawner/void.ideology)                             | <p align="center">2023</p>     |
 
 Achievement of the absolute of development is achieved by complete repopulation of the Universe, to be able to create matter from energy and transform energy into matter, to create any minerals and molecules, including DNA molecules.
@@ -84,8 +88,6 @@ The global population is increasing at an average rate of **1.1% per year**. By 
 ## Spawner
 
 We come to the point where **human labor ceases to matter**. When all the work is automated, the accrual of funds is also autonomous. Every second, funds are charged depending on how much energy has been extracted and material resources have been created.
-
-**⌜ voids ⌟** currency accrued regardless of the work performed.
 
 Infinite creation is at the heart of **V O I D**.
 
@@ -142,7 +144,9 @@ By continuously increasing investment by **×10**, the population increases prop
 > 
 > Investment **∞100 000 000** → Population **10 000 000**
 
-This amount is enough to conduct research into new developments of moving in space, artificial intelligence, converting energy into matter and matter into energy, including the creation of gas molecules to produce planetary atmospheres and DNA molecules to populate them with new kinds of living beings.
+<img src="https://raw.githubusercontent.com/voidspawner/void.ideology/blob/main/asset/image/spending3.webp" width="100%">
+
+With the needs **fully covered**, this number of people is enough to raise funds for research and development and building production facilities to create **V O I D spawner**.
 
 ## Steps
 ### Step 0
@@ -192,20 +196,51 @@ This amount is enough to conduct research into new developments of moving in spa
 > - Artificial intelligence
 > - Construction of living beings
 > 
-> <img src="https://raw.githubusercontent.com/voidspawner/void.ideology/refs/heads/main/asset/image/dome.webp" width="100%">
+> <img src="https://github.com/voidspawner/void.ideology/blob/main/asset/image/dome.webp" width="100%">
+
+## Structure
+
+<img src="https://raw.githubusercontent.com/void.ideology/blob/main/asset/image/structure.webp" width="100%">
+
+To create **V O I D spawner**, the company structure follows the same steps.
+
+### Step 1
+
+In the first step, the **Director** takes over the management of **all directions**. The work of creation is done by **AI**. Since the AI cannot yet set and accept tasks on its own, it is directed by the Director.
+
+### Step 2
+
+A dedicated person is assigned to each direction, combining the functions of **Product Manager** and **Team Leader**. This person sets and accepts tasks for employees and AI.
+
+### Step 3
+
+Each **PM·TL** has its own team of PM·TLs who work on the **details** of the project. In turn, they also have their own PM·TL team, etc. Gradually, full control is taken over by the **V O I D**.
 
 ## V O I D citizen
-**⌜ V O I D citizen ⌟** is a participant in resource distribution.
-There are two ways to become **V O I D citizen**:
+**⌜ V O I D citizen ⌟** is a participant in resource distribution. To become one, only need to have a balance greater than or equal to **∞80**. The higher the balance, the higher the **status** and the more is **accrued**.
 
-> 1. Buy it for **∞80**
-> 2. Reaching accruals of **∞80**
+> **∞80** ・ Citizen
+> 
+> **∞800** ・ Great Citizen
+> 
+> **∞8 000** ・ Grand Citizen
+> 
+> **∞80 000** ・ Master Citizen
+> 
+> **∞800 000** ・ Ultimate Citizen
+> 
+> **∞8 000 000** ・ Legendary Citizen
+
+## V O I D voids
+**⌜ voids ⌟** is a currency operating in the **V O I D** ecosystem. Currency is accrued to citizens regardless of the work performed. Depends only on the amount of recourses created. The **capitalization** of the currency is **infinite**.
+
+> **∞1 void = $1**
 
 ## V O I D game
-**[⌜V O I D game⌟](https://github.com/voidspawner/void.game)** is a game that creates an **infinite** number of games, v-apps and content.
+**[⌜ V O I D game ⌟](https://voidsp.ru/void.game)** is a game that creates an **infinite** number of games, vapps and content.
 
 ## V O I D social
-**⌜ V O I D social ⌟** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
+**[⌜ V O I D social ⌟](https://voidsp.ru/void.social)** is a social network where you can **quickly** and **easily** communicate without words with people all over the world.
 
 ## V O I D lang
 **[⌜ V O I D lang ⌟](https://github.com/voidspawner/void.lang)** is the language for rapidly creating applications in the **[V O I D](https://github.com/voidspawner/void.lang#v-o-i-d-format)** or **[JSON](https://en.wikipedia.org/wiki/JSON)** format. It is used as a replacement for both the standard Bash/CMD/etc. languages and for writing **UI Applications**, **Servers** and **Games**. The language uses one of the languages already preinstalled in the system. So you don't need to install anything else. Code and data are not separated. So the whole application fits in **one V O I D or JSON file**. Since the **code is presented as data**, applications can be easily generated with **AI**, updated, installed and launched remotely.
@@ -227,4 +262,4 @@ You can use it in both **private** and **open source**, embed it in **free** or 
 > [!IMPORTANT]
 > By adding your code to the repository, you are publishing it under the **V O I D licence**.
 
-Find out current **tasks** and **payment** at [**V O I D task**](https://github.com/voidspawner/void.task)
+Find out current **tasks** and **payment** at [**V O I D task**](https://voidsp.ru/void.task)
